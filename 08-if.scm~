@@ -1,0 +1,6 @@
+;if 4 is less than 3 return "4 is less than 3"
+;else, return "4 is greater than 3"
+(if (< 4 3) 
+    "4 is less than 3"
+    "4 is greater than 3")
+
